@@ -1,0 +1,60 @@
+.side{
+  height: 540px;
+  width: 760px;
+  border: 20px solid gray;
+  background-color: gray;
+}
+.header{
+  display: flex;
+  justify-content: flex-start;
+  height: 120px;
+  width: 760px;
+  background-color: white;
+}
+.item1{
+  margin-left: 20px;
+  margin-top: 20px;
+  display: flex;
+  height: 80px;
+  width: 80px;
+  background-color: green;
+}
+.item2{
+  margin-left: 20px;
+  margin-top: 20px;
+  display: flex;
+  height: 80px;
+  width: 80px;
+  background-color: blue;
+}
+.item3{
+  margin-left: 20px;
+  margin-top: 20px;
+  display: flex;
+  height: 80px;
+  width: 80px;
+  background-color: green;
+}
+.item4{
+  margin-left: 20px;
+  margin-top: 20px;
+  display: flex;
+  height: 80px;
+  width: 80px;
+  background-color: green;
+}
+.item5{
+  display: flex;
+  margin-left: 260px;
+  margin-top: 20px;
+  height: 80px;
+  width: 80px;
+  background-color: green;
+}
+.big{
+  margin-top: 20px;
+  display: flex;
+  height: 400px;
+  width: 760px;
+  background-color: white;
+}
