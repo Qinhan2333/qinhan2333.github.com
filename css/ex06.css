@@ -1,0 +1,106 @@
+.ui-head{
+	width: 610px;
+	display: flex;
+	flex-wrap: wrap;
+	border: 1px solid #7F7F7F;
+	margin-bottom: 50px;
+}
+.ui-pic{
+	width: 100px;
+	height: 100px;
+	border: 1px solid #7F7F7F;
+	margin: 10px;
+}
+.ui-pic>img{
+    width: 100px;
+    height: 100px;
+}
+.ui-pic:hover {
+    border: 1px solid #000;
+    cursor: pointer;
+}
+.ui-mid{
+	border: 1px solid #000;
+	border-bottom: none;
+	border-collapse:collapse;
+	position: absolute;
+	top: 320px;
+	left: 130px;
+}
+.ui-mid td{
+	width: 50px;
+	height: 25px;
+}
+.number{
+	position: absolute;
+	width: 275px;
+	height: 150px;
+	top: 348px;
+	left: 130px;
+	padding-top: 30px;
+	border: 1px solid #000;
+	font-size: 80px;
+	font-weight: normal;
+	text-align: center;
+	color: rgb(128,128,128);
+}
+.ui-bottom{
+	position: absolute;
+	top: 580px;
+	left: 130px;
+	border: 1px solid black;
+	width: 290px;
+	padding-top: 6px;
+}
+.bot-ul{
+	list-style: none;
+	padding-left: 1px;
+}
+.bot-table{
+	border: 1px solid #000;
+	margin: 10px;
+    border-collapse:collapse;
+}
+.bot-table td{
+	border-right: 1px solid #000;
+}
+.table-num{
+	text-align: center;
+	width: 30px;
+}
+.table-content{
+	width: 190px;
+}
+.table-del{
+	width: 55px;
+	padding-left: 3px;
+}
+.add{
+	float: right;
+	width: 90px;
+	height: 25px;
+	margin-top: 25px;
+	margin-right: 11px;
+	margin-bottom: 11px;
+	border: 1px solid black;
+	background-color: rgb(51,153,102);
+	text-align: center;
+	color: white;
+}
+#ui-hide{
+	display: none;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background-color: #fff;
+}
+#ui-hide-item{
+	display: flex;
+	width: 100%;
+	height: 100%;
+}
+#ui-hide-img{
+	width: 400px;
+	height: 400px;
+	margin: auto;
+}

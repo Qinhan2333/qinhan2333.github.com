@@ -21,9 +21,9 @@ body{
 	float: left;
 	height: 100px;
 	width: 100px;
-	border: 1px solid #551A8B;
+	border: 1px solid #7F7F7F;
 	text-align: center;
-	background-color: #551A8B;
+	background-color: #7F7F7F;
 	padding: 10px;
 	margin-left: 10px;
 	margin-bottom: 8px;
@@ -32,7 +32,7 @@ body{
 	float: left;
 	height: 100px;
 	width: 100px;
-	border: 1px solid #00B2EE;
+	border: 1px solid #00A2EE;
 	text-align: center;
 	background-color: #00B2EE;
 	padding: 10px;
